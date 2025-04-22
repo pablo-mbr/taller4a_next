@@ -11,8 +11,13 @@ body {
     text-align: center;
   }
   
+  main {
+    display: flex;
+    justify-content: center;
+  }
+
   img {
     margin-top: 20px;
-    width: 300px;
+    width: 1000px;
     border-radius: 10px;
   }
